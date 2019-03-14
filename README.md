@@ -1,3 +1,6 @@
+## Presentation
+https://prezi.com/view/j6Ei2e9QuJM2RUJ8xXZZ/
+
 ## Tutorials
 * Google TensorFlow Tutorials: https://www.tensorflow.org/tutorials/keras
 * Google TensorFlow 2.0 (Alpha) Tutorials: https://www.tensorflow.org/alpha/tutorials/keras
